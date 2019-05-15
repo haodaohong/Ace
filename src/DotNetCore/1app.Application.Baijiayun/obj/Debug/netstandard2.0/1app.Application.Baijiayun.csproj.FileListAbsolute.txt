@@ -1,0 +1,9 @@
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\bin\Debug\netstandard2.0\1app.Application.Baijiayun.deps.json
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\bin\Debug\netstandard2.0\1app.Application.Baijiayun.dll
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\bin\Debug\netstandard2.0\1app.Application.Baijiayun.pdb
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\obj\Debug\netstandard2.0\1app.Application.Baijiayun.csprojAssemblyReference.cache
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\obj\Debug\netstandard2.0\1app.Application.Baijiayun.csproj.CoreCompileInputs.cache
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\obj\Debug\netstandard2.0\1app.Application.Baijiayun.AssemblyInfoInputs.cache
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\obj\Debug\netstandard2.0\1app.Application.Baijiayun.AssemblyInfo.cs
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\obj\Debug\netstandard2.0\1app.Application.Baijiayun.dll
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.Baijiayun\obj\Debug\netstandard2.0\1app.Application.Baijiayun.pdb

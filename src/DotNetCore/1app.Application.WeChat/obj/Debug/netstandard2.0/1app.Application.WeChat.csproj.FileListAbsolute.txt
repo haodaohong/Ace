@@ -1,0 +1,9 @@
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\bin\Debug\netstandard2.0\1app.Application.WeChat.deps.json
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\bin\Debug\netstandard2.0\1app.Application.WeChat.dll
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\obj\Debug\netstandard2.0\1app.Application.WeChat.csprojAssemblyReference.cache
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\obj\Debug\netstandard2.0\1app.Application.WeChat.csproj.CoreCompileInputs.cache
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\obj\Debug\netstandard2.0\1app.Application.WeChat.AssemblyInfoInputs.cache
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\obj\Debug\netstandard2.0\1app.Application.WeChat.AssemblyInfo.cs
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\bin\Debug\netstandard2.0\1app.Application.WeChat.pdb
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\obj\Debug\netstandard2.0\1app.Application.WeChat.dll
+C:\Users\haod\source\repos\Ace_CMS\src\DotNetCore\1app.Application.WeChat\obj\Debug\netstandard2.0\1app.Application.WeChat.pdb

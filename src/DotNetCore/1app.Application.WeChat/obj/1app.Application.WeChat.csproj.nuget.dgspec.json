@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\haod\\source\\repos\\Ace_CMS\\src\\DotNetCore\\1app.Application.WeChat\\1app.Application.WeChat.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\haod\\source\\repos\\Ace_CMS\\src\\DotNetCore\\1app.Application.WeChat\\1app.Application.WeChat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\haod\\source\\repos\\Ace_CMS\\src\\DotNetCore\\1app.Application.WeChat\\1app.Application.WeChat.csproj",
+        "projectName": "1app.Application.WeChat",
+        "projectPath": "C:\\Users\\haod\\source\\repos\\Ace_CMS\\src\\DotNetCore\\1app.Application.WeChat\\1app.Application.WeChat.csproj",
+        "packagesPath": "C:\\Users\\haod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\haod\\source\\repos\\Ace_CMS\\src\\DotNetCore\\1app.Application.WeChat\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\haod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {},
+          "https://www.myget.org/F/delaware-digital-ci/api/v3/index.json": {},
+          "https://www.myget.org/F/delaware-digital/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Senparc.CO2NET": {
+              "target": "Package",
+              "version": "[0.7.1, )"
+            },
+            "Senparc.CO2NET.APM": {
+              "target": "Package",
+              "version": "[0.3.0.2, )"
+            },
+            "Senparc.CO2NET.Cache.Redis": {
+              "target": "Package",
+              "version": "[3.5.0.2, )"
+            },
+            "Senparc.Weixin": {
+              "target": "Package",
+              "version": "[6.4.3, )"
+            },
+            "Senparc.Weixin.MP": {
+              "target": "Package",
+              "version": "[16.7.4.1, )"
+            },
+            "Senparc.Weixin.MP.MVC": {
+              "target": "Package",
+              "version": "[7.2.8.3, )"
+            },
+            "Senparc.Weixin.Open": {
+              "target": "Package",
+              "version": "[4.5.2, )"
+            },
+            "Senparc.Weixin.Work": {
+              "target": "Package",
+              "version": "[3.5.2.1, )"
+            },
+            "Senparc.Weixin.WxOpen": {
+              "target": "Package",
+              "version": "[3.4.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
